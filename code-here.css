@@ -33,9 +33,18 @@
     padding: 1em;
     text-align: center;
 }
-#doubles {
-    display: inline;
+#one, #two  {
+    background:rgba(68, 247, 202, 0.89);
     font-weight: bold;
-    background: yellow;
-    /* Not finished */
+    display: inline-block;
+    border-style: groove;
+    border-color:rgba(10, 175, 175, 0.938) ;
+    border-width: .5em;
+    padding: 1.4em;
+    text-align: center;
 }
+#gaudi {
+    border-style: double;
+    border-radius:1em;
+}
+/* Not finished */
