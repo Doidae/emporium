@@ -37,6 +37,7 @@
     background:rgba(68, 247, 202, 0.89);
     font-weight: bold;
     display: inline-block;
+    margin: 7px;
     border-style: groove;
     border-color:rgba(10, 175, 175, 0.938) ;
     border-width: .5em;
